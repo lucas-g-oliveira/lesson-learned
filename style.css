@@ -1,4 +1,4 @@
-body{
+body {
     background-color: rgb(253, 251, 251);
     font-family: monospace;
 }
@@ -8,23 +8,24 @@ img {
     border-radius: 10%;
 }
 
-h1{
+h1 {
     text-align: center;
 }
-#sobre_aprendizado, #quem_sou_eu{
+
+#sobre_aprendizado,
+#quem_sou_eu {
     background-color: greenyellow;
     width: 30%;
     padding: 10px;
 }
-#align_article_and_aside{
+
+#align_article_and_aside {
     display: inline-flex;
     gap: 5px;
 }
 
 
-#cabecalho{
+#cabecalho {
     top: 0;
     background-color: greenyellow;
 }
-
-
