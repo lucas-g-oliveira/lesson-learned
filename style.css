@@ -1,6 +1,18 @@
 body{
     background-color: rgb(253, 251, 251);
+    font-family: monospace;
 }
+
+img {
+    border: solid 2px black;
+    border-radius: 10%;
+}
+
+h1{
+    text-align: center;
+}
+
+
 
 #cabecalho {
     top: 0;
