@@ -1,17 +1,26 @@
 body {
     background-color: rgb(253, 251, 251);
     font-family: monospace;
+    font-size: 12px;
+    line-height: 20px;
+    text-decoration-color: blue;
 }
 
 img {
     border: solid 2px black;
     border-radius: 10%;
     position: absolute;
-    top: 20ox
+    top: 50px;
+    display: block;
 }
 
 h1 {
     text-align: center;
+}
+
+#ajust{
+    height: 250px;
+    width: 170px;
 }
 
 #sobre_aprendizado,
