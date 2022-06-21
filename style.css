@@ -3,7 +3,6 @@ body {
     font-family: monospace;
     font-size: 12px;
     line-height: 20px;
-    text-decoration-color: blue;
 }
 
 img {
@@ -16,6 +15,7 @@ img {
 
 h1 {
     text-align: center;
+    color: #001;
 }
 
 #ajust{
@@ -35,6 +35,9 @@ h1 {
     gap: 5px;
 }
 
+table{
+    background-color: greenyellow;
+}
 
 #cabecalho {
     top: 0;
