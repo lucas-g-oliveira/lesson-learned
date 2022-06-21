@@ -23,8 +23,8 @@ h1 {
     width: 170px;
 }
 
-#sobre_aprendizado,
-#quem_sou_eu {
+
+ .lado_esquerdo, .lado_direito{
     background-color: greenyellow;
     width: 30%;
     padding: 10px;
