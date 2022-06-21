@@ -6,6 +6,8 @@ body {
 img {
     border: solid 2px black;
     border-radius: 10%;
+    position: absolute;
+    top:20ox
 }
 
 h1 {
@@ -26,7 +28,7 @@ h1 {
 
 
 #cabecalho {
-    top: 0;
+    top: 0px;
     position: absolute;
     background-color: greenyellow;
 }
