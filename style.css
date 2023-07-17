@@ -8,7 +8,6 @@ body {
 img {
     border: solid 2px black;
     border-radius: 10%;
-    position: absolute;
     top: 50px;
     display: block;
 }
@@ -25,7 +24,6 @@ h1 {
 
 
  .lado_esquerdo, .lado_direito{
-    background-color: greenyellow;
     width: 30%;
     padding: 10px;
 }
@@ -41,9 +39,28 @@ table{
 
 #cabecalho {
     top: 0;
-    position: fixed;
     background-color: greenyellow;
     margin: 10px;
     border: 1px;
     padding: auto;
+}
+
+#quem_sou_eu{
+    background-color: yellow;
+    padding: 10px;
+}
+
+main{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#align_article_and_aside{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#sobre_aprendizado{
+    background-color: aqua;
+    width: 700px;
 }
